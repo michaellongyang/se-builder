@@ -6,7 +6,6 @@ A test development environment for Selenium 1 and 2
 
 ## Install
 
-  * An XPI for the latest release version is available from http://www.saucelabs.com/addons/selenium-builder-latest.xpi
   * Instructions for installing the development version - https://github.com/sebuilder/se-builder/wiki/Contribution-Notes
 
 ## Resources
